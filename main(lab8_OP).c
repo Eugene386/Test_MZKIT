@@ -4,6 +4,8 @@
 #include <time.h>
 #include <math.h>
 
+//MZKIT_lab8 changed
+
 //============================================================================
 
 //void get_triangle_type(double AB, double BC, double AC) {
